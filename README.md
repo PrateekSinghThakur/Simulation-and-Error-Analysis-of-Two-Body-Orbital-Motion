@@ -395,12 +395,3 @@ dist/
 - Real astronomical datasets
 
 ---
-
-## 📚 References
-
-1. Chapra & Canale — *Numerical Methods for Engineers*
-2. Curtis — *Orbital Mechanics for Engineering Students*
-3. Butcher — *Numerical Methods for Ordinary Differential Equations*
-4. MATLAB Documentation
-
----
