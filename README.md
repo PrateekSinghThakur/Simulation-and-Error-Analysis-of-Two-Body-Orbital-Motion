@@ -374,8 +374,13 @@ addpath(genpath(pwd))
 After successful execution, you should observe:
 
 ✅ Stable circular orbit with RK4
+
 ✅ Noticeable energy drift with Euler
+
 ✅ Conservation of angular momentum
+
 ✅ Fourth-order convergence behavior for RK4
+
 ✅ Interpolation-based trajectory reconstruction
+
 ✅ Multiple analysis and visualization figures
